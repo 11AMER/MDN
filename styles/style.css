@@ -1,0 +1,31 @@
+html {
+  background-color: #00539f;
+}
+body {
+  font-family: 'Inter', sans-serif;
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  border: 5px solid black;
+  padding: 0 20px 20px 20px;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  height: 250px;
+}
+p,
+li {
+  line-height: 2;
+  letter-spacing: 1px;
+}
+ul {
+  margin-top: -16px;
+}
